@@ -1,7 +1,7 @@
-# PCHex
-3DS Homebrew port of PKHex, A Pokémon save editor.
+# NXHex
+Nintendo Switch Homebrew port of 3ds Homebrew port of PKHex, A Pokémon save editor.
 
-Currently just proof of concept.
+Currently just concept.
 
 # Build
 You need the latest git version of ctrulib, found here: https://github.com/smealum/ctrulib
@@ -22,4 +22,4 @@ Copy the content of the "export" folder in your "homebrew" or "3ds" folder.
 
 # Todo
 
-* ?
+* fix this damn readme
